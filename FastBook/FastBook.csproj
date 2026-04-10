@@ -22,7 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Assets\Icon\" />
     <Folder Include="Assets\sound\" />
     <Folder Include="Migrations\" />
     <Folder Include="SAVE\" />
