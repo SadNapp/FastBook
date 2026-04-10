@@ -1,4 +1,4 @@
-# <p align="center"><img src="FastBook/Assets/Icon/FastBoookIcon.png" width="512" height="521" alt="FastBook Icon"><br>FastBook</p>
+# <p align="center"><img src="FastBook/Assets/Icon/FastBoookIcon.png" width="256" height="256" alt="FastBook Icon"><br>FastBook</p>
 
 <p align="center">
   <strong>A lightweight personal note management system built with WPF and MVVM.</strong>
