@@ -1,6 +1,6 @@
 #<p align="center">
   <img src="FastBook/Assets/Icon/FastBoookIcon.png" width="256" height="256" alt="FastBook Icon"><br>
-  <h3>FastBook</h3>
+  **FastBook**
 </p>
 
 <p align="center">
