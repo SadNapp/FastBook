@@ -66,18 +66,4 @@ Services: Data access layer (NoteService) to encapsulate DB logic.
 
 Views: XAML-based interface definitions.
 
-🗺 Roadmap
-[ ] Dependency Injection: Refactoring to use Microsoft.Extensions.DependencyInjection.
 
-[ ] Theming: Support for Dark/Light modes.
-
-[ ] Rich Text Support: Moving beyond plain text notes.
-
-[ ] Cloud Sync: Optional backup to cloud providers.
-
-👤 Author
-SadNapp Junior Backend Developer
-
-GitHub: @SadNapp
-
-Discord: [Join our IT Co-working community]# FastBook
